@@ -21,3 +21,6 @@ cd Oculus-Scanner
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
+
+
+Author : Keerthana N |https://www.linkedin.com/in/keerthana-n-2ofe | keerthanapalakkaparambil@gmail.com
